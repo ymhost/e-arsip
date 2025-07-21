@@ -368,24 +368,24 @@ https://templatemo.com/tm-588-ebook-landing
                     </div>
 
                     <div class="col-lg-6 col-12">
-                        <h6 class="mt-5">Say hi and talk to us</h6>
+                        <h6 class="mt-5">katakan yudho 3x</h6>
 
                         <h2 class="mb-4">Contact</h2>
 
                         <p class="mb-3">
                             <i class="bi-geo-alt me-2"></i>
-                            London, United Kingdom
+                            buntok, kalimantan selatan
                         </p>
 
                         <p class="mb-2">
-                            <a href="tel: 010-020-0340" class="contact-link">
-                                010-020-0340
+                            <a href="tel: +62 822-5532-3993" class="contact-link">
+                                +62 822-5532-3993
                             </a>
                         </p>
 
                         <p>
                             <a href="mailto:info@company.com" class="contact-link">
-                                info@company.com
+                                yudho@gmail.com
                             </a>
                         </p>
 
